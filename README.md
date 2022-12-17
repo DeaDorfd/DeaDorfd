@@ -42,6 +42,8 @@ I am mainly a Java Developer. Nevertheless, I am ready to learn a new programmin
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" **alt="trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" **alt="Debian" width="40" height="40"/>
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/eclipse.svg" title="Eclipse" **alt="Eclipse" width="40" height="40"/>
+  <img src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg" title="Maven" **alt="Maven" width="40" height="40"/>
 </div>
 
 ---
