@@ -5,9 +5,6 @@
   <a href="https://linktr.ee/deadorfd">
     <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UChuAxz7F3dDPHl6cwbU8FeA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://de.fiverr.com/deadorfdtm?up_rollout=true">
     <img src="https://img.shields.io/badge/fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
   </a>
